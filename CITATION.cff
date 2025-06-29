@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Sabores de Vida: Guía Integral de Alimentación para la Tercera Edad (Capítulo 1: Comprendiendo la Alimentación en la Tercera Edad)"
+version: "v1.0"
+doi: "10.5281/zenodo.15558586"
+date-released: 2024-07-14
+authors:
+  - family-names: Varona-Fong
+    given-names: Humberto V.
+    name: Humberto V. Varona-Fong
+license: "CC-BY-4.0"
+preferred-citation:
+  type: software
+  title: "Sabores de Vida: Guía Integral de Alimentación para la Tercera Edad (Capítulo 1: Comprendiendo la Alimentación en la Tercera Edad)"
+  version: "v1.0"
+  doi: "10.5281/zenodo.15558586"
+  authors:
+    - name: Humberto L. Varona-Fong
+  publisher: "Câmara Brasileira do Livro"
+  year: 2025
