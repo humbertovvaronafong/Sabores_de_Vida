@@ -1,4 +1,4 @@
-# Sabores de Vida: Guía Integral de Alimentación para la Tercera Edad
+# Sabores de Vida: Guía Integral de Alimentación para la Tercera Edad (Solo Capítulo 1)
 
 ## Fecha de publicación
 
