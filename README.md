@@ -14,6 +14,10 @@
 
 978-65-01-50400-1
 
+## Publicado
+
+Câmara Brasileira do Livro
+
 ## Resumen de la Guía
 
 **“Sabores de Vida”** es una guía integral, práctica y profundamente humana que aborda con claridad el papel esencial de la alimentación en la tercera edad. Desde una mirada médica, emocional y sociocultural, esta obra está diseñada para mejorar la calidad de vida de las personas mayores mediante una nutrición adaptada, accesible y placentera. Está dirigida tanto a adultos mayores como a sus familiares y cuidadores, ofreciendo herramientas concretas para acompañar la alimentación con respeto, conocimiento y sensibilidad.
