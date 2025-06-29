@@ -1,5 +1,7 @@
 # Sabores de Vida: Guía Integral de Alimentación para la Tercera Edad (Solo Capítulo 1)
 
+## Capítulo 1. Comprendiendo la Alimentación en la Tercera Edad
+
 ## Fecha de publicación
 
 2024-07-14
@@ -19,7 +21,7 @@
 
 ### Introducción
 
-### Capítulo 1. Comprendiendo la Alimentación en la Tercera Edad
+### Capítulo 1. Comprendiendo la Alimentación en la Tercera Edad:
 
 Explora los cambios fisiológicos que afectan la nutrición en la vejez, como el metabolismo, la digestión, el gusto, y el impacto de la medicación. Se enfatiza la importancia de la hidratación, la detección de deficiencias y la influencia emocional y social en el acto de comer.
 
